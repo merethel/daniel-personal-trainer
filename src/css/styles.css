@@ -1,0 +1,23 @@
+
+html{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-content: flex-start;
+    font-size: 10px;
+    background-color: rgb(208, 252, 213);
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    font-size: 1.6rem;
+    overflow-x: hidden; /* Hide horizontal scrollbar */
+}
+
+
+@media only screen and (max-width: 600px) {    
+  }
+
+  
